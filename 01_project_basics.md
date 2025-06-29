@@ -241,7 +241,7 @@ IMT := userWeight / math.Pow(userHeight, degreeTwo)
 
 ---
 
-## ✅ Вывод
+## 📌 Вывод
 
 Ты умеешь:
 
